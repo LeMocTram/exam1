@@ -1,0 +1,40 @@
+C:\Users\Admin\source\repos\ProjectLTMCB\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\source\repos\ProjectLTMCB\Client\bin\Debug\Client.exe
+C:\Users\Admin\source\repos\ProjectLTMCB\Client\bin\Debug\Client.pdb
+C:\Users\Admin\source\repos\ProjectLTMCB\Client\obj\Debug\Client.Client.resources
+C:\Users\Admin\source\repos\ProjectLTMCB\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\source\repos\ProjectLTMCB\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ProjectLTMCB\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProjectLTMCB\Client\obj\Debug\Client.exe
+C:\Users\Admin\source\repos\ProjectLTMCB\Client\obj\Debug\Client.pdb
+C:\Users\Admin\source\repos\ProjectLTMCB\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Client\bin\Debug\Client.exe.config
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Client\bin\Debug\Client.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Client\bin\Debug\Client.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Client\obj\Debug\Client.Client.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Client\obj\Debug\Client.Properties.Resources.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Client\obj\Debug\Client.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Client\obj\Debug\Client.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Client\bin\Debug\Client.exe
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Client\obj\Debug\Client.Client.resources
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Client\obj\Debug\Client.exe
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Client\obj\Debug\Client.pdb
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Client\bin\Debug\Client.exe.config
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Client\obj\Debug\Client.Client.resources
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Client\obj\Debug\Client.exe
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Client\obj\Debug\Client.pdb
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Client\obj\Debug\Client.csproj.AssemblyReference.cache

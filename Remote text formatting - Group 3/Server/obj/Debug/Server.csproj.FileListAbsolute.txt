@@ -1,0 +1,40 @@
+C:\Users\Admin\source\repos\ProjectLTMCB\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\source\repos\ProjectLTMCB\Server\bin\Debug\Server.exe
+C:\Users\Admin\source\repos\ProjectLTMCB\Server\bin\Debug\Server.pdb
+C:\Users\Admin\source\repos\ProjectLTMCB\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Admin\source\repos\ProjectLTMCB\Server\obj\Debug\Server.Server.resources
+C:\Users\Admin\source\repos\ProjectLTMCB\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ProjectLTMCB\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProjectLTMCB\Server\obj\Debug\Server.exe
+C:\Users\Admin\source\repos\ProjectLTMCB\Server\obj\Debug\Server.pdb
+C:\Users\Admin\source\repos\ProjectLTMCB\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Server\bin\Debug\Server.exe.config
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Server\bin\Debug\Server.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Server\bin\Debug\Server.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Server\obj\Debug\Server.Properties.Resources.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Server\obj\Debug\Server.Server.resources
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Server\obj\Debug\Server.exe
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Server\obj\Debug\Server.pdb
+D:\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Chưa hoàn thiện\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Server\bin\Debug\Server.exe
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Server\bin\Debug\Server.pdb
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Server\obj\Debug\Server.Server.resources
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Server\obj\Debug\Server.exe
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Server\obj\Debug\Server.pdb
+C:\Users\Admin\Desktop\Chưa hoàn thiện\Chưa hoàn thiện\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Server\bin\Debug\Server.exe.config
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Server\bin\Debug\Server.exe
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Server\obj\Debug\Server.Server.resources
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Server\obj\Debug\Server.exe
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Server\obj\Debug\Server.pdb
+C:\Users\ASUS\Downloads\Remote text formatting - Group 3\Server\obj\Debug\Server.csproj.AssemblyReference.cache
