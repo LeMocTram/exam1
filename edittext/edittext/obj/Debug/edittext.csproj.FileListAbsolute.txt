@@ -1,0 +1,10 @@
+D:\CODE\edittext\edittext\bin\Debug\edittext.exe.config
+D:\CODE\edittext\edittext\bin\Debug\edittext.exe
+D:\CODE\edittext\edittext\bin\Debug\edittext.pdb
+D:\CODE\edittext\edittext\obj\Debug\edittext.csproj.AssemblyReference.cache
+D:\CODE\edittext\edittext\obj\Debug\edittext.Form1.resources
+D:\CODE\edittext\edittext\obj\Debug\edittext.Properties.Resources.resources
+D:\CODE\edittext\edittext\obj\Debug\edittext.csproj.GenerateResource.cache
+D:\CODE\edittext\edittext\obj\Debug\edittext.csproj.CoreCompileInputs.cache
+D:\CODE\edittext\edittext\obj\Debug\edittext.exe
+D:\CODE\edittext\edittext\obj\Debug\edittext.pdb

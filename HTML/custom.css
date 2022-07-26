@@ -1,0 +1,94 @@
+/* reset margin, padding */
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.red {
+  border: 1px solid red;
+}
+
+.green {
+  border: 1px solid green;
+}
+
+.banner {
+  height: 800px;
+  padding: 20px;
+  background: url(./banner.jpg) center center no-repeat;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
+}
+.banner .about-sign-in {
+  text-align: right;
+  text-transform: uppercase;
+  height: 80px;
+  width: 100%;
+  float: right;
+}
+.banner .about-sign-in .about,
+.banner .about-sign-in .sign-in {
+  text-decoration: none;
+  margin-top: 30px;
+  display: inline-block;
+  padding: 10px 15px;
+}
+.banner .about-sign-in .sign-in {
+  margin-left: 20px;
+  margin-right: 60px;
+  border: 2px solid #8bc34a;
+  border-radius: 20px;
+}
+.banner .logo {
+  background: url(./hapoERP.png) center center no-repeat;
+  margin-top: 200px;
+  height: 100px;
+}
+.banner .content-center {
+  margin-top: 40px;
+}
+.banner .content-center .left,
+.banner .content-center .right,
+.banner .content-center .center {
+  width: 33%;
+  display: inline-block;
+  text-align: center;
+}
+.banner .content-center img {
+  width: 50px;
+  height: 50px;
+}
+.banner .content-center span {
+  margin-top: 20px;
+  display: block;
+  font-size: 20px;
+}
+.banner .text {
+  text-align: center;
+  font-style: italic;
+  font-family: Roboto;
+  letter-spacing: -0.02px;
+  font-size: 18px;
+  margin-top: 40px;
+}
+.banner .btn-start-now {
+  text-align: center;
+}
+.banner .btn-start-now button {
+  text-transform: uppercase;
+  padding: 10px 15px;
+  border-radius: 20px;
+  border: 2px solid black;
+  height: 40px;
+  width: 144px;
+  margin: 31px 0 233px 0;
+  color: azure;
+  background: linear-gradient(311.12deg, #B4EC51 0%, #429321 100%);
+  background-image: linear-gradient(311.12deg, #b4ec51 0%, #429321 100%);
+  box-shadow: 0 2px 4px 0 black;
+  cursor: pointer;
+}
